@@ -1,11 +1,7 @@
-<div align="right">
+<div align="center">
 
-<a href="https://kaicolab.vercel.app/NayeonPanagiotou902/?src=ec5fc8517cfaa04d">
-<img src="readme/card.svg?v=1793769998" alt="" width="1600" />
+<a href="https://dataannotation.vercel.app/NayeonPanagiotou902/?src=ec5fc8517cfaa04d">
+  <img src="https://raw.githubusercontent.com/NayeonPanagiotou902/NayeonPanagiotou902/main/readme/card-1793896456.png" alt="Collaboration offer — long-term AI and software work" width="960" />
 </a>
 
 </div>
-
-Building small tools and experiments, and this is where it shows up.
-
-[Read the collaboration proposal →](https://kaicolab.vercel.app/NayeonPanagiotou902/?src=ec5fc8517cfaa04d)
